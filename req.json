@@ -1,0 +1,14 @@
+{
+  "request": {
+    "passengers": {
+      "adultCount": 1
+    },
+    "slice": [
+      {
+        "origin": "MSP",
+        "destination": "ATL",
+        "date": "2017-09-01"
+      }
+    ]
+  }
+}
